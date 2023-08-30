@@ -34,5 +34,4 @@ while True:
 
     print(f"el resultado es {resultado}")
 
-# nose que le pasa pero cualquier cosa esta en el curso (el del curso no me funciono xd)
 print("Gracias por utilizar la calculadora.")
